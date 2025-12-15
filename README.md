@@ -135,8 +135,3 @@ http://localhost:5173
 * Integrating third-party SDKs
 * Coordinating frontend and backend services
 
----
-
-## License
-
-This project is licensed under the **MIT License**.
